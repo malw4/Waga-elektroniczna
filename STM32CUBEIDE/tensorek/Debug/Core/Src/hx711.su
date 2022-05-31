@@ -1,0 +1,13 @@
+hx711.c:11:6:hx711_delay_us	16	static
+hx711.c:19:6:hx711_lock	16	static
+hx711.c:26:6:hx711_unlock	16	static
+hx711.c:31:6:hx711_init	48	static
+hx711.c:59:9:hx711_value	32	static
+hx711.c:87:9:hx711_value_ave	40	static
+hx711.c:101:6:hx711_tare	40	static
+hx711.c:114:6:hx711_calibration	24	static
+hx711.c:122:7:hx711_weight	48	static
+hx711.c:137:6:hx711_coef_set	16	static
+hx711.c:142:7:hx711_coef_get	16	static
+hx711.c:147:6:hx711_power_down	16	static
+hx711.c:154:6:hx711_power_up	16	static
